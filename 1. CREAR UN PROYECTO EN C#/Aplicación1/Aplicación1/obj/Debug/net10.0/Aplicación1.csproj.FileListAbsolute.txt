@@ -1,0 +1,14 @@
+D:\Documents\Curso C#\CREAR UN PROYECTO EN C#\Aplicación1\Aplicación1\bin\Debug\net10.0\Aplicación1.exe
+D:\Documents\Curso C#\CREAR UN PROYECTO EN C#\Aplicación1\Aplicación1\bin\Debug\net10.0\Aplicación1.deps.json
+D:\Documents\Curso C#\CREAR UN PROYECTO EN C#\Aplicación1\Aplicación1\bin\Debug\net10.0\Aplicación1.runtimeconfig.json
+D:\Documents\Curso C#\CREAR UN PROYECTO EN C#\Aplicación1\Aplicación1\bin\Debug\net10.0\Aplicación1.dll
+D:\Documents\Curso C#\CREAR UN PROYECTO EN C#\Aplicación1\Aplicación1\bin\Debug\net10.0\Aplicación1.pdb
+D:\Documents\Curso C#\CREAR UN PROYECTO EN C#\Aplicación1\Aplicación1\obj\Debug\net10.0\Aplicación1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Curso C#\CREAR UN PROYECTO EN C#\Aplicación1\Aplicación1\obj\Debug\net10.0\Aplicación1.AssemblyInfoInputs.cache
+D:\Documents\Curso C#\CREAR UN PROYECTO EN C#\Aplicación1\Aplicación1\obj\Debug\net10.0\Aplicación1.AssemblyInfo.cs
+D:\Documents\Curso C#\CREAR UN PROYECTO EN C#\Aplicación1\Aplicación1\obj\Debug\net10.0\Aplicación1.csproj.CoreCompileInputs.cache
+D:\Documents\Curso C#\CREAR UN PROYECTO EN C#\Aplicación1\Aplicación1\obj\Debug\net10.0\Aplicación1.dll
+D:\Documents\Curso C#\CREAR UN PROYECTO EN C#\Aplicación1\Aplicación1\obj\Debug\net10.0\refint\Aplicación1.dll
+D:\Documents\Curso C#\CREAR UN PROYECTO EN C#\Aplicación1\Aplicación1\obj\Debug\net10.0\Aplicación1.pdb
+D:\Documents\Curso C#\CREAR UN PROYECTO EN C#\Aplicación1\Aplicación1\obj\Debug\net10.0\Aplicación1.genruntimeconfig.cache
+D:\Documents\Curso C#\CREAR UN PROYECTO EN C#\Aplicación1\Aplicación1\obj\Debug\net10.0\ref\Aplicación1.dll
