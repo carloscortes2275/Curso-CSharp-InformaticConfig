@@ -1,0 +1,14 @@
+D:\Documents\Curso C#\2. TIPOS DE DATOS EN C#\TiposDeDatos\TiposDeDatos\bin\Debug\net10.0\TiposDeDatos.exe
+D:\Documents\Curso C#\2. TIPOS DE DATOS EN C#\TiposDeDatos\TiposDeDatos\bin\Debug\net10.0\TiposDeDatos.deps.json
+D:\Documents\Curso C#\2. TIPOS DE DATOS EN C#\TiposDeDatos\TiposDeDatos\bin\Debug\net10.0\TiposDeDatos.runtimeconfig.json
+D:\Documents\Curso C#\2. TIPOS DE DATOS EN C#\TiposDeDatos\TiposDeDatos\bin\Debug\net10.0\TiposDeDatos.dll
+D:\Documents\Curso C#\2. TIPOS DE DATOS EN C#\TiposDeDatos\TiposDeDatos\bin\Debug\net10.0\TiposDeDatos.pdb
+D:\Documents\Curso C#\2. TIPOS DE DATOS EN C#\TiposDeDatos\TiposDeDatos\obj\Debug\net10.0\TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Curso C#\2. TIPOS DE DATOS EN C#\TiposDeDatos\TiposDeDatos\obj\Debug\net10.0\TiposDeDatos.AssemblyInfoInputs.cache
+D:\Documents\Curso C#\2. TIPOS DE DATOS EN C#\TiposDeDatos\TiposDeDatos\obj\Debug\net10.0\TiposDeDatos.AssemblyInfo.cs
+D:\Documents\Curso C#\2. TIPOS DE DATOS EN C#\TiposDeDatos\TiposDeDatos\obj\Debug\net10.0\TiposDeDatos.csproj.CoreCompileInputs.cache
+D:\Documents\Curso C#\2. TIPOS DE DATOS EN C#\TiposDeDatos\TiposDeDatos\obj\Debug\net10.0\TiposDeDatos.dll
+D:\Documents\Curso C#\2. TIPOS DE DATOS EN C#\TiposDeDatos\TiposDeDatos\obj\Debug\net10.0\refint\TiposDeDatos.dll
+D:\Documents\Curso C#\2. TIPOS DE DATOS EN C#\TiposDeDatos\TiposDeDatos\obj\Debug\net10.0\TiposDeDatos.pdb
+D:\Documents\Curso C#\2. TIPOS DE DATOS EN C#\TiposDeDatos\TiposDeDatos\obj\Debug\net10.0\TiposDeDatos.genruntimeconfig.cache
+D:\Documents\Curso C#\2. TIPOS DE DATOS EN C#\TiposDeDatos\TiposDeDatos\obj\Debug\net10.0\ref\TiposDeDatos.dll
