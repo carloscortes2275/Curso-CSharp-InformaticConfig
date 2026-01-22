@@ -1,0 +1,14 @@
+D:\Documents\Curso C#\3. VARIABLES EN C#\Variables\Variables\bin\Debug\net10.0\Variables.exe
+D:\Documents\Curso C#\3. VARIABLES EN C#\Variables\Variables\bin\Debug\net10.0\Variables.deps.json
+D:\Documents\Curso C#\3. VARIABLES EN C#\Variables\Variables\bin\Debug\net10.0\Variables.runtimeconfig.json
+D:\Documents\Curso C#\3. VARIABLES EN C#\Variables\Variables\bin\Debug\net10.0\Variables.dll
+D:\Documents\Curso C#\3. VARIABLES EN C#\Variables\Variables\bin\Debug\net10.0\Variables.pdb
+D:\Documents\Curso C#\3. VARIABLES EN C#\Variables\Variables\obj\Debug\net10.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Curso C#\3. VARIABLES EN C#\Variables\Variables\obj\Debug\net10.0\Variables.AssemblyInfoInputs.cache
+D:\Documents\Curso C#\3. VARIABLES EN C#\Variables\Variables\obj\Debug\net10.0\Variables.AssemblyInfo.cs
+D:\Documents\Curso C#\3. VARIABLES EN C#\Variables\Variables\obj\Debug\net10.0\Variables.csproj.CoreCompileInputs.cache
+D:\Documents\Curso C#\3. VARIABLES EN C#\Variables\Variables\obj\Debug\net10.0\Variables.dll
+D:\Documents\Curso C#\3. VARIABLES EN C#\Variables\Variables\obj\Debug\net10.0\refint\Variables.dll
+D:\Documents\Curso C#\3. VARIABLES EN C#\Variables\Variables\obj\Debug\net10.0\Variables.pdb
+D:\Documents\Curso C#\3. VARIABLES EN C#\Variables\Variables\obj\Debug\net10.0\Variables.genruntimeconfig.cache
+D:\Documents\Curso C#\3. VARIABLES EN C#\Variables\Variables\obj\Debug\net10.0\ref\Variables.dll
