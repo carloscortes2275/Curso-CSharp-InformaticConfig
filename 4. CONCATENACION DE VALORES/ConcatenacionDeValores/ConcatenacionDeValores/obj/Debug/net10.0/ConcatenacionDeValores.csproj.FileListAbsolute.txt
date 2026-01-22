@@ -1,0 +1,14 @@
+D:\Documents\Curso C#\3. VARIABLES EN C#\ConcatenacionDeValores\ConcatenacionDeValores\bin\Debug\net10.0\ConcatenacionDeValores.exe
+D:\Documents\Curso C#\3. VARIABLES EN C#\ConcatenacionDeValores\ConcatenacionDeValores\bin\Debug\net10.0\ConcatenacionDeValores.deps.json
+D:\Documents\Curso C#\3. VARIABLES EN C#\ConcatenacionDeValores\ConcatenacionDeValores\bin\Debug\net10.0\ConcatenacionDeValores.runtimeconfig.json
+D:\Documents\Curso C#\3. VARIABLES EN C#\ConcatenacionDeValores\ConcatenacionDeValores\bin\Debug\net10.0\ConcatenacionDeValores.dll
+D:\Documents\Curso C#\3. VARIABLES EN C#\ConcatenacionDeValores\ConcatenacionDeValores\bin\Debug\net10.0\ConcatenacionDeValores.pdb
+D:\Documents\Curso C#\3. VARIABLES EN C#\ConcatenacionDeValores\ConcatenacionDeValores\obj\Debug\net10.0\ConcatenacionDeValores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Curso C#\3. VARIABLES EN C#\ConcatenacionDeValores\ConcatenacionDeValores\obj\Debug\net10.0\ConcatenacionDeValores.AssemblyInfoInputs.cache
+D:\Documents\Curso C#\3. VARIABLES EN C#\ConcatenacionDeValores\ConcatenacionDeValores\obj\Debug\net10.0\ConcatenacionDeValores.AssemblyInfo.cs
+D:\Documents\Curso C#\3. VARIABLES EN C#\ConcatenacionDeValores\ConcatenacionDeValores\obj\Debug\net10.0\ConcatenacionDeValores.csproj.CoreCompileInputs.cache
+D:\Documents\Curso C#\3. VARIABLES EN C#\ConcatenacionDeValores\ConcatenacionDeValores\obj\Debug\net10.0\ConcatenacionDeValores.dll
+D:\Documents\Curso C#\3. VARIABLES EN C#\ConcatenacionDeValores\ConcatenacionDeValores\obj\Debug\net10.0\refint\ConcatenacionDeValores.dll
+D:\Documents\Curso C#\3. VARIABLES EN C#\ConcatenacionDeValores\ConcatenacionDeValores\obj\Debug\net10.0\ConcatenacionDeValores.pdb
+D:\Documents\Curso C#\3. VARIABLES EN C#\ConcatenacionDeValores\ConcatenacionDeValores\obj\Debug\net10.0\ConcatenacionDeValores.genruntimeconfig.cache
+D:\Documents\Curso C#\3. VARIABLES EN C#\ConcatenacionDeValores\ConcatenacionDeValores\obj\Debug\net10.0\ref\ConcatenacionDeValores.dll
