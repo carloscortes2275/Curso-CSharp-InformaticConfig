@@ -8,3 +8,6 @@ Temas Vistos:
 - VARIABLES video(5)
 - CONCATENACION DE VALORES video(6)
 - COMENTARIOS video(7)
+- CONSTANTES video(8)
+- CASTING video(9)
+- OPERADORES ARITMETICOS video(10)
