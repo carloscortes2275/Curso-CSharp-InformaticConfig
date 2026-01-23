@@ -7,3 +7,4 @@ Temas Vistos:
 - TIPOS DE DATOS EN C# video(4)
 - VARIABLES video(5)
 - CONCATENACION DE VALORES video(6)
+- COMENTARIOS video(7)
