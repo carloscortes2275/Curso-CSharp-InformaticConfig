@@ -1,0 +1,14 @@
+D:\Documents\Curso C#\5. COMENTARIOS\Comentarios\Comentarios\bin\Debug\net10.0\Comentarios.exe
+D:\Documents\Curso C#\5. COMENTARIOS\Comentarios\Comentarios\bin\Debug\net10.0\Comentarios.deps.json
+D:\Documents\Curso C#\5. COMENTARIOS\Comentarios\Comentarios\bin\Debug\net10.0\Comentarios.runtimeconfig.json
+D:\Documents\Curso C#\5. COMENTARIOS\Comentarios\Comentarios\bin\Debug\net10.0\Comentarios.dll
+D:\Documents\Curso C#\5. COMENTARIOS\Comentarios\Comentarios\bin\Debug\net10.0\Comentarios.pdb
+D:\Documents\Curso C#\5. COMENTARIOS\Comentarios\Comentarios\obj\Debug\net10.0\Comentarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Curso C#\5. COMENTARIOS\Comentarios\Comentarios\obj\Debug\net10.0\Comentarios.AssemblyInfoInputs.cache
+D:\Documents\Curso C#\5. COMENTARIOS\Comentarios\Comentarios\obj\Debug\net10.0\Comentarios.AssemblyInfo.cs
+D:\Documents\Curso C#\5. COMENTARIOS\Comentarios\Comentarios\obj\Debug\net10.0\Comentarios.csproj.CoreCompileInputs.cache
+D:\Documents\Curso C#\5. COMENTARIOS\Comentarios\Comentarios\obj\Debug\net10.0\Comentarios.dll
+D:\Documents\Curso C#\5. COMENTARIOS\Comentarios\Comentarios\obj\Debug\net10.0\refint\Comentarios.dll
+D:\Documents\Curso C#\5. COMENTARIOS\Comentarios\Comentarios\obj\Debug\net10.0\Comentarios.pdb
+D:\Documents\Curso C#\5. COMENTARIOS\Comentarios\Comentarios\obj\Debug\net10.0\Comentarios.genruntimeconfig.cache
+D:\Documents\Curso C#\5. COMENTARIOS\Comentarios\Comentarios\obj\Debug\net10.0\ref\Comentarios.dll
