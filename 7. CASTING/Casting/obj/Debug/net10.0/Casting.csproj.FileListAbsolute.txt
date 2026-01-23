@@ -1,0 +1,14 @@
+D:\Documents\Curso C#\7. CASTING\Casting\bin\Debug\net10.0\Casting.exe
+D:\Documents\Curso C#\7. CASTING\Casting\bin\Debug\net10.0\Casting.deps.json
+D:\Documents\Curso C#\7. CASTING\Casting\bin\Debug\net10.0\Casting.runtimeconfig.json
+D:\Documents\Curso C#\7. CASTING\Casting\bin\Debug\net10.0\Casting.dll
+D:\Documents\Curso C#\7. CASTING\Casting\bin\Debug\net10.0\Casting.pdb
+D:\Documents\Curso C#\7. CASTING\Casting\obj\Debug\net10.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Curso C#\7. CASTING\Casting\obj\Debug\net10.0\Casting.AssemblyInfoInputs.cache
+D:\Documents\Curso C#\7. CASTING\Casting\obj\Debug\net10.0\Casting.AssemblyInfo.cs
+D:\Documents\Curso C#\7. CASTING\Casting\obj\Debug\net10.0\Casting.csproj.CoreCompileInputs.cache
+D:\Documents\Curso C#\7. CASTING\Casting\obj\Debug\net10.0\Casting.dll
+D:\Documents\Curso C#\7. CASTING\Casting\obj\Debug\net10.0\refint\Casting.dll
+D:\Documents\Curso C#\7. CASTING\Casting\obj\Debug\net10.0\Casting.pdb
+D:\Documents\Curso C#\7. CASTING\Casting\obj\Debug\net10.0\Casting.genruntimeconfig.cache
+D:\Documents\Curso C#\7. CASTING\Casting\obj\Debug\net10.0\ref\Casting.dll
